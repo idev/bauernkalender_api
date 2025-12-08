@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bauernregeln des Tages</title>
+  <style>
+    body { font-family: system-ui, -apple-system, sans-serif; margin: 2rem; line-height: 1.5; }
+    #out { white-space: pre-wrap; padding: 1rem; border: 1px solid #ddd; border-radius: 8px; background: #fafafa; }
+  </style>
+</head>
+<body>
+  <h1>Bauernregel des Tages</h1>
+  <p>Zeigt einen tagesgenauen Spruch, fällt zurück auf den Monatsbestand.</p>
+  <div id="out">Lade…</div>
+  <script>
+    const monthKeys = ['januar','februar','maerz','april','mai','juni','juli','august','september','oktober','november','dezember'];
+
+    async function getTodayRule() {
+      const now = new Date();
+      const month = monthKeys[now.getMonth()];
+      const day = now.getDate();
+
+      try {
+        const dayResp = await fetch(`./monat_tag_bauernregeln/${month}.json`);
+        const dayData = await dayResp.json();
+        const entry = dayData.days.find(d => d.day === day);
+        if (entry?.rules?.length) {
+          return entry.rules[Math.floor(Math.random() * entry.rules.length)];
+        }
+      } catch (err) {
+        console.error('Fehler beim Laden der Tagesdaten', err);
+      }
+
+      try {
+        const genResp = await fetch(`./monat_allgemein_bauernregeln.json`);
+        const general = await genResp.json();
+        const monthRules = general[month] || [];
+        if (monthRules.length) {
+          return monthRules[Math.floor(Math.random() * monthRules.length)];
+        }
+      } catch (err) {
+        console.error('Fehler beim Laden der Monatsdaten', err);
+      }
+
+      return 'Keine Regel gefunden.';
+    }
+
+    (async () => {
+      const out = document.getElementById('out');
+      out.textContent = await getTodayRule();
+    })();
+  </script>
+</body>
+</html>
+
