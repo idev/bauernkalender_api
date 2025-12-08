@@ -1,0 +1,135 @@
+{
+  "month": "august",
+  "days": [
+    {
+      "day": 1,
+      "rules": [
+        "Ist’s von Petri bis Lorenzi (10. August) heiß, dann bleibt der Winter lange weiß.",
+        "An Petri Kettenfeier von diesem Ort ziehen die Störche fort."
+      ]
+    },
+    {
+      "day": 5,
+      "rules": [
+        "Oswaldtag muss trocken sein, sonst werden teuer Korn und Wein.",
+        "Regen an Maria Schnee tut dem Korn empfindlich weh."
+      ]
+    },
+    {
+      "day": 7,
+      "rules": [
+        "An Sankt Afra Regen kommt für den Bauer ungelegen.",
+        "An Sankt Afra Regen fällt, den Bauern es noch lange quält.",
+        "Regen an Mariä Schnee tut dem Korn empfindlich weh."
+      ]
+    },
+    {
+      "day": 8,
+      "rules": [
+        "Ist’s an Domini sehr heiß, wird der Winter lang und weiß.",
+        "Ist’s heiß an Sankt Dominikus, der Winter mit strenger Kälte kommen muss.",
+        "Auf Hitze an Sankt Dominikus ein strenger Winter folgen muss.",
+        "Je mehr Dominikus schürt, je länger man im Winter friert.",
+        "Bei Hitze an Sankt Dominikus ein strenger Winter kommen muss."
+      ]
+    },
+    {
+      "day": 10,
+      "rules": [
+        "Sankt Laurenz mit heißem Hauch, füllt dem Bauern Fass und Schlauch.",
+        "Sankt Lorenz kommt in finstrer Nacht ganz sicher mit Sternschnuppenpracht.",
+        "Sollen Obst und Trauben sich mehren, dürfen mit Laurenz die Wetter aufhören.",
+        "Laurentius heiter und gut, einen schönen Herbst verheißen tut.",
+        "Laurenz im Sonnenschein, wird der Herbst gesegnet sein.",
+        "Ist’s von Petri (1. August) bis Lorenzi heiß, dann bleibt der Winter lange weiß.",
+        "Kommt Laurentius daher, wächst das Holz nicht mehr.",
+        "Laurenzi hol’s Wämsi, hol Schuh und Strümpf."
+      ]
+    },
+    {
+      "day": 13,
+      "rules": [
+        "Wie das Wetter an Hippolyt, so es mehrere Tage geschieht.",
+        "Wie das Wetter zu Kassian, hält es viele Tage lang."
+      ]
+    },
+    {
+      "day": 14,
+      "rules": [
+        "Leuchten vor Mariä Himmelfahrt die Sterne, dann hält sich das Wetter gerne."
+      ]
+    },
+    {
+      "day": 15,
+      "rules": [
+        "Wie das Wetter am Himmelfahrtstag, so der ganze Herbst sein mag.",
+        "Scheint die Sonne hell und zart an Mariä Himmelfahrt, wird es schönen Herbst bedeuten. Sagt das Sprüchlein allen Leuten.",
+        "Um Maria Himmelfahrt, das wisse, gibt es schon die ersten Nüsse.",
+        "Wer Rüben will recht gut und zart, sä’ sie an Mariä Himmelfahrt.",
+        "Mariä Himmelfahrt im Sonnenschein, bringt viel und guten Wein.",
+        "Wie das Wetter am Himmelfahrtstag, so es noch zwei Wochen bleiben mag."
+      ]
+    },
+    {
+      "day": 16,
+      "rules": [
+        "Wenn Sankt Rochus trübe schaut, kommen die Raupen in das Kraut."
+      ]
+    },
+    {
+      "day": 18,
+      "rules": [
+        "Holz, an Agapitustag geschlagen, fault nicht bis zum „Jüngsten Tag“."
+      ]
+    },
+    {
+      "day": 19,
+      "rules": [
+        "Regnet’s an Sankt Sebald, nahet teuere Zeit sehr bald."
+      ]
+    },
+    {
+      "day": 20,
+      "rules": [
+        "Wie der Sankt Bernhard ist, man auch den September misst."
+      ]
+    },
+    {
+      "day": 24,
+      "rules": [
+        "Wie sich das Wetter am Bartheltag stellt ein, so soll’s den ganzen September sein.",
+        "Wie Bartholomäus sich hält, so ist der ganze Herbst bestellt.",
+        "Liegt Reif um den Barthelmtag offen, so ist ein warmer Herbst zu hoffen.",
+        "Bleibt St. Barthol im Regen steh’n, ist ein guter Herbst vorherzuseh’n.",
+        "Sind Lorenz (10. August) und Bartel schön, bleiben die Kräuter noch lange stehn.",
+        "Bartholomä voll Sonnenglut macht Wein und Reben stark und gut."
+      ]
+    },
+    {
+      "day": 25,
+      "rules": [
+        "Wenn im März die Veilchen blühn, an Ludwig oft die Schwalben ziehn."
+      ]
+    },
+    {
+      "day": 28,
+      "rules": [
+        "An Augustin gehen die warmen Tage dahin.",
+        "Um Augustin ziehn die Wetter hin.",
+        "Um die Zeit von Augustin gehn die warmen Tage hin."
+      ]
+    },
+    {
+      "day": 30,
+      "rules": [
+        "Bischof Felix zeigt an, was wir 40 Tag’ für Wetter han."
+      ]
+    },
+    {
+      "day": 31,
+      "rules": [
+        "Sankt Raimund treibt die Wetter aus."
+      ]
+    }
+  ]
+}

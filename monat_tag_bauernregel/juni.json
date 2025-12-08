@@ -1,0 +1,121 @@
+{
+  "month": "juni",
+  "days": [
+    {
+      "day": 1,
+      "rules": [
+        "War’s an Fortunatus klar, gibt’s ein gutes Erntejahr.",
+        "Schönes Wetter auf Fortunat, ein gutes Jahr zu bedeuten hat.",
+        "Justin klar, gutes Jahr."
+      ]
+    },
+    {
+      "day": 8,
+      "rules": [
+        "An Sankt Medardus wird ausgemacht, ob 40 Tag die Sonne lacht.",
+        "Wie jetzt der Medardus wettert, solch Wetter 30 Tage zittert.",
+        "Wie’s Wetter auf St. Medardi fällt, es bis zu Mondes Schlusses anhält.",
+        "Was der Medardus für ein Wetter hält, solch Wetter auch in die Ernte fällt.",
+        "Ein sonniger Medardustag, der stillt aller Bauern Klag’.",
+        "Ist’s an Medardus feucht und nass, regnet’s weiter ohne Unterlass.",
+        "Regen am Medardustag verdirbt den ganzen Heuertrag.",
+        "Wer auf Medardus baut, der kriegt viel Flachs und Kraut."
+      ]
+    },
+    {
+      "day": 10,
+      "rules": [
+        "Regnet’s am Margaret(h)entage, dauert der Regen noch vierzig (auch vierzehn) Tage.",
+        "Hat die Margaret keinen Sonnenschein, bringt man das Heu nicht trocken rein."
+      ]
+    },
+    {
+      "day": 11,
+      "rules": [
+        "Nach Barnabas die Sonne weicht, auf Luzia (13. Dezember) sie wieder zu uns schleicht.",
+        "St. Barnabas niemals die Sichel vergaß, er hat den längsten Tag (stimmt nicht!) und das längste Gras.",
+        "Sankt Barnabas schneidet das Gras.",
+        "Mit seiner Sens’ der Barnabas kommt her und schneidet ab das Gras.",
+        "Wenn St. Barnabas bringt Regen, gibt’s reichen Traubensegen.",
+        "Regnet es an Barnabas, schwimmen die Trauben bis ins Fass.",
+        "Der Barnabas macht, wenn er günstig ist, wieder gut, was vielleicht schon verdorben ist."
+      ]
+    },
+    {
+      "day": 13,
+      "rules": [
+        "Wenn Sankt Anton gut Wetter lacht, St. Peter (29. Juni) viel in Wasser macht.",
+        "Regnet’s am Antoniustag, wird’s Wetter später wie es mag.",
+        "Hat Antonius starken Regen, geht’s mit der Gerste wohl daneben."
+      ]
+    },
+    {
+      "day": 15,
+      "rules": [
+        "Ist zu Sankt Veit der Himmel klar, dann gibt’s gewiss ein gutes Jahr.",
+        "St. Veit, der hat den längsten Tag, die Luzia (13. Dezember) die längste Nacht vermag.",
+        "Nach dem St. Veit, da ändert sich bald die Jahreszeit.",
+        "Der alte Vit, der bringt nur Regen mit.",
+        "Das Wasser an St. Vit verträgt die späte Gerste nit.",
+        "Regen am St. Vitustag die Gerste nicht vertragen mag.",
+        "Regnet’s an St. Veit, Gerste nicht leid’t.",
+        "O heiliger Vitus, regne nicht, damit es uns nicht am Korn gebricht, denn Regen an dem Vitustag, die Gerste nicht vertragen mag.",
+        "Ist der Wein abgeblüht auf St. Vit, so bringt er ein schönes Weinjahr mit.",
+        "Nach St. Veit, da ändert sich die Zeit; dann fängt das Laub zu stehen an, dann haben die Vögel das Legen getan.",
+        "Der Wind, dreht sich um St. Veit, da legt sich’s Laub auf die andere Seit’.",
+        "Nach St. Veit, da legen sich die Blätter auf die andere Seit’.",
+        "Hat Sankt Veit starken Regen, bringt er unermesslichen Segen.",
+        "Wenn es an Vitus regnet, dann regnet es Pilze."
+      ]
+    },
+    {
+      "day": 16,
+      "rules": [
+        "Wer auf Sankt Benno baut, kriegt viel Flachs und Kraut."
+      ]
+    },
+    {
+      "day": 19,
+      "rules": [
+        "Wenn’s regnet auf St. Gervasius, es 40 Tage regnen muss."
+      ]
+    },
+    {
+      "day": 21,
+      "rules": [
+        "Ist die Milchstraße klar zu seh’n, bleibt das Wetter schön.",
+        "Funkeln heut’ die Stern’, spielt der Wind bald den Herrn."
+      ]
+    },
+    {
+      "day": 24,
+      "rules": [
+        "Bis Johannis wird gepflanzt, ein Datum, das du dir merken kannst.",
+        "Stich den Spargel nie mehr nach Johanni.",
+        "Am Johannistag die ersten Kirch’ nach Hause trag.",
+        "Vor Johanni bitt um Regen, nachher kommt er ungelegen.",
+        "Das Jahr, das nimmt ein gutes End’, wenn das Emd trocken in der Scheune ist.",
+        "Regnet’s am Johannistag, so regnet es noch vierzehn Tag.",
+        "Reif in der Johannisnacht den Bauern Beschwerde macht.",
+        "Sankt Johannis Regengüsse verderben die besten Nüsse.",
+        "Wenn es am Johannistag regnet, dann regnet es Pilze.",
+        "Bis Johanni nicht vergessen, sieben Wochen Spargel essen."
+      ]
+    },
+    {
+      "day": 27,
+      "rules": [
+        "Wie das Wetter sich am Siebenschläfer verhält, ist es sieben Wochen lang bestellt.",
+        "Wenn’s am Siebenschläfer regnet, sind wir sieben Wochen mit Regen gesegnet.",
+        "Ist der Siebenschläfer nass, regnet’s ohne Unterlass."
+      ]
+    },
+    {
+      "day": 29,
+      "rules": [
+        "Regnet’s an Peter und Paul, wird des Winzers Ernte faul.",
+        "Peter und Paul hell und klar bringt ein gutes Jahr."
+      ]
+    }
+  ]
+}

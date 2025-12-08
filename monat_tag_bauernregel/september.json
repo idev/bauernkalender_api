@@ -1,0 +1,155 @@
+{
+  "month": "september",
+  "days": [
+    {
+      "day": 1,
+      "rules": [
+        "Wie das Wetter an Ägidius so es vier Wochen bleiben muss.",
+        "Ist Ägidi ein heller Tag, ich dir schönen Herbst ansag.",
+        "Ägidius Regen kommt ungelegen.",
+        "Gib auf Ägidius wohl Acht, er sagt dir, was der Monat macht.",
+        "Wer Korn schon um Ägidi sät, nächstes Jahr viel Frucht abmäht."
+      ]
+    },
+    {
+      "day": 4,
+      "rules": [
+        "Zu Sankt Veit (15. Juni) geht’s auf die Weid, Sankt Rosal treibt’s Vieh ins Tal."
+      ]
+    },
+    {
+      "day": 6,
+      "rules": [
+        "Wie das Wetter am Magnustag so es vier Wochen bleiben mag."
+      ]
+    },
+    {
+      "day": 7,
+      "rules": [
+        "Ist Regine warm und sonnig, bleibt das Wetter lange wonnig.",
+        "Regina warm und wonnig, bleibt das Wetter lange sonnig."
+      ]
+    },
+    {
+      "day": 8,
+      "rules": [
+        "Wie sich das Wetter an Maria Geburt verhält, so ist’s noch vier Wochen bestellt.",
+        "Wird Mariä Geburt gesät, ist’s nicht zu früh und nicht zu spät.",
+        "Zu Mariä Geburt fliegen die Schwalben furt. Bleiben sie noch da, ist der Winter nicht nah."
+      ]
+    },
+    {
+      "day": 9,
+      "rules": [
+        "Ist Gorgon schön, bleibt’s noch sechs Wochen schön.",
+        "Bringt St. Gorgon Regen, folgt ein Herbst mit bösen Wegen.",
+        "Regnet es am Sankt Gorgons Tag, geht dir Ernte verloren bis auf den Sack."
+      ]
+    },
+    {
+      "day": 11,
+      "rules": [
+        "Wenn’s an Protus nicht nässt, ein dürrer Herbst sich sehen lässt."
+      ]
+    },
+    {
+      "day": 12,
+      "rules": [
+        "An Mariä Namen, sagt der Sommer Amen.",
+        "An Mariä Namen kommen die Schwalben zusammen."
+      ]
+    },
+    {
+      "day": 14,
+      "rules": [
+        "Ist’s hell am Kreuzerhöhungstag, so folgt ein strenger Winter nach."
+      ]
+    },
+    {
+      "day": 15,
+      "rules": [
+        "St. Ludmilla, das fromme Kind, bringt gern Regen und Wind.",
+        "Ludmilla will nicht artig sein, bringt viel Wind und Regen rein."
+      ]
+    },
+    {
+      "day": 16,
+      "rules": [
+        "An Sankt Cyprian zieht man oft schon Handschuh’ an."
+      ]
+    },
+    {
+      "day": 17,
+      "rules": [
+        "Auf Lambert hell und klar, folgt ein trocken Jahr."
+      ]
+    },
+    {
+      "day": 18,
+      "rules": [
+        "Trocken wird das Frühjahr sein, ist St. Lampert klar und rein."
+      ]
+    },
+    {
+      "day": 21,
+      "rules": [
+        "Hat Matthäus schön’ Wetter im Haus, so hält es noch vier Wochen aus.",
+        "Tritt Matthäus stürmisch ein, wird’s bis Ostern Winter sein.",
+        "Wenn Matthäus weint statt lacht, Essig aus dem Wein er macht.",
+        "Wenn Matthäus freundlich schaut, man auf gutes Wetter baut."
+      ]
+    },
+    {
+      "day": 22,
+      "rules": [
+        "Klares Wetter an Mauritius, im nächsten Jahr viel Wind kommen muss.",
+        "Ist Sankt Martin hell und klar, stürmt der Winter, das ist wahr.",
+        "Zeigt sich klar Mauritius, viele Stürm’ er bringen muss."
+      ]
+    },
+    {
+      "day": 24,
+      "rules": [
+        "Friert es auf Virgilius, im Märzen Kälte kommen muss."
+      ]
+    },
+    {
+      "day": 25,
+      "rules": [
+        "Nebelt’s an St. Kleophas, wird der ganze Winter nass."
+      ]
+    },
+    {
+      "day": 26,
+      "rules": [
+        "Sankt Kosmas und Sankt Damian fängt das Laub zu färben an.",
+        "Wenn Hiltrud im Kalender steht, wird noch einmal das Gras gemäht.",
+        "Fallen die Eicheln vor Michael (29. September) ab, so steigt der Sommer früh in’s Grab."
+      ]
+    },
+    {
+      "day": 28,
+      "rules": [
+        "Kommt Wenzeslaus mit Regen an, werden wir Nüsse bis Weihnachten ha’n."
+      ]
+    },
+    {
+      "day": 29,
+      "rules": [
+        "Der Michel zündt’s Licht an.",
+        "Regnet’s am Michaelistag, folgt milder Winter nach. Wenn aber Michael der Wind kalt weht, ein harter Winter zu erwarten steht.",
+        "Auf nassen Michaeltag, nasser Herbst folgen mag.",
+        "Gibt Michaeli Sonnenschein, wird in zwei Wochen Winter sein.",
+        "Sind Zugvögel an Michaeli noch hier, haben bis Weihnachten lind Wetter hier.",
+        "Fallen die Eicheln vor Michaeli ab, so steigt der Sommer früh ins Grab.",
+        "Um Michaelis in der Tat gedeiht die beste Wintersaat."
+      ]
+    },
+    {
+      "day": 30,
+      "rules": [
+        "Von Michel und Hieronymus mach aufs Weihnachtswetter Schluss."
+      ]
+    }
+  ]
+}

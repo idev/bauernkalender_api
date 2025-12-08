@@ -1,0 +1,123 @@
+{
+  "month": "juli",
+  "days": [
+    {
+      "day": 1,
+      "rules": [
+        "Fängt der Juli mit Tröpfeln an, wird man lange Regen ha’n."
+      ]
+    },
+    {
+      "day": 2,
+      "rules": [
+        "Mariä Heimsuch wird’s bestellt, wie’s Wetter sich 40 Tage hält.",
+        "Geht Maria übes Gebirge nass, bleibt leer Scheune und Fass."
+      ]
+    },
+    {
+      "day": 4,
+      "rules": [
+        "Regen am Sankt Ulrich Tag macht die Birnen stichig mad."
+      ]
+    },
+    {
+      "day": 8,
+      "rules": [
+        "Kilian, der heilige Mann, stellt die ersten Schnitter an.",
+        "Ist’s zu Sankt Kilian schön, werden viele gute Tage vergehn.",
+        "An Sankt Kilian säe Wicken und Rüben an."
+      ]
+    },
+    {
+      "day": 10,
+      "rules": [
+        "Ist Siebenbrüder ein Regentag, so regnet’s noch sieben Wochen danach.",
+        "Wie es die sieben Brüder treiben, soll es noch sieben Wochen lang bleiben.",
+        "Wenn sich die sieben Brüder sonnen, kommt sieben Wochen Wonnen.",
+        "An Siebenbrüder Regen, der bringt dem Bauern keinen Segen."
+      ]
+    },
+    {
+      "day": 15,
+      "rules": [
+        "Ist Apostelteilung schön, so kann das Wetter der sieben Brüder (10. Juli) gehn."
+      ]
+    },
+    {
+      "day": 17,
+      "rules": [
+        "Wenn Alexius verregnet heuer, werden Korn und Früchte teuer.",
+        "Wenn’s an Alexius regnet, ist die Ernt’ und Frucht gesegnet."
+      ]
+    },
+    {
+      "day": 19,
+      "rules": [
+        "Vinzenz Sonnenschein füllt die Fässer mit Wein."
+      ]
+    },
+    {
+      "day": 20,
+      "rules": [
+        "Wie’s Wetter an St. Margaret, dasselbe noch vier Wochen steht.",
+        "Margaretenregen wird erst nach Monatsfrist sich legen.",
+        "Margaretens Regen bringt keinen Segen.",
+        "Regen am Margaretentag sagt dem Hunger „Guten Tag“.",
+        "Gegen Margareten und Jakoben, die stärksten Gewitter toben.",
+        "An Margareten Regen, bringt Heu und Nüssen keine Segen.",
+        "Klar muss Apollinaris sein, dann bringt man gute Ernte heim."
+      ]
+    },
+    {
+      "day": 22,
+      "rules": [
+        "An Magdalena regnet’s gern, weil sie weinte um den Herrn.",
+        "Magdalene weint um ihren Herrn, drum regnet’s an diesem Tage gern.",
+        "Regnet’s am St. Magdalentag, folgt gewiss mehr Regen nach."
+      ]
+    },
+    {
+      "day": 23,
+      "rules": [
+        "Klar muss Apollinaris sein, soll sich der Bauer freun.",
+        "Klar muss Apollinaris sein, dann bringt man gute Ernte heim."
+      ]
+    },
+    {
+      "day": 25,
+      "rules": [
+        "Bläst Jakobus weiße Wölkchen in die Höh, sind’s Winterblüten zu vielem Schnee.",
+        "Sind an Jakobi die Tage warm, gibt’s im Winter viel Kält’ und Harm.",
+        "Jakobi ohne Regen deutet auf strengen Winter.",
+        "Um Jakobi heiß und trocken, kann der Bauersmann frohlocken.",
+        "Sankt Jakob nimmt hinweg die Not, bringt erste Frucht und frisches Brot.",
+        "Jakobi klar und rein, wird das Christfest frostig sein.",
+        "Gegen Margareten und Jakoben, die stärksten Gewitter toben.",
+        "Wenn Jacobi tagt, werden die jungen Störche vom Nest gejagt.",
+        "Wenn Jakobi kommt heran, man den Roggen schneiden kann.",
+        "Ist Jacobus am Ort, ziehn die Störche bald fort."
+      ]
+    },
+    {
+      "day": 26,
+      "rules": [
+        "Sankt Anna klar und rein, wird bald das Korn geborgen sein.",
+        "Ist Sankt Anna erst vorbei, kommt der Morgen kühl herbei.",
+        "Anna warm und trocken macht den Bauern frohlocken."
+      ]
+    },
+    {
+      "day": 29,
+      "rules": [
+        "Olaf, Beate, Lucilla, Ladislaus verbrennen dem Bauern Scheun’ und Haus.",
+        "Ist Florentine trocken ’blieben, schickt sie Raupen in Korn und Rüben."
+      ]
+    },
+    {
+      "day": 31,
+      "rules": [
+        "So wie Ignaz stellte sich ein, wird der nächste Januar sein."
+      ]
+    }
+  ]
+}

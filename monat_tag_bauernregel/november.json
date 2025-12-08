@@ -1,0 +1,137 @@
+{
+  "month": "november",
+  "days": [
+    {
+      "day": 1,
+      "rules": [
+        "Bringt Allerheiligen einen Winter, so bringt Martini (11. November) einen Sommer.",
+        "Allerheiligen bringt Sommer für alte Weiber, der ist des Sommers letzter Vertreiber.",
+        "Ist’s zu Allerheiligen rein, tritt Altweibersommer ein.",
+        "Hat Allerheiligen Sonnenschein, wird’s um Martini (11. November) umso kälter sein.",
+        "Allerheiligenreif macht zur Weihnacht alles steif.",
+        "Bricht vor Allerheiligen der Winter ein, so herrscht um Martini (11. November) Sonnenschein."
+      ]
+    },
+    {
+      "day": 2,
+      "rules": [
+        "Der Allerseelentag drei Tropfen Regen mag.",
+        "Um Allerseelen kalt und klar, macht auf Weihnacht alles starr."
+      ]
+    },
+    {
+      "day": 3,
+      "rules": [
+        "Bringt Hubertus Schnee und Eis, bleibt’s den ganzen November weiß."
+      ]
+    },
+    {
+      "day": 4,
+      "rules": [
+        "Wenn’s an Karolus stürmt und schneit, dann lege deinen Pelz bereit."
+      ]
+    },
+    {
+      "day": 6,
+      "rules": [
+        "Wenn auf Leonhardi Regen fällt, ist’s mit dem Weizen schlecht bestellt.",
+        "Wie’s Wetter an Lenardi ist, bleibt’s bis Weihnachten gewiss.",
+        "Nach der vielen Arbeit Schwere, an Leonhardi die Rösser ehre."
+      ]
+    },
+    {
+      "day": 11,
+      "rules": [
+        "Wenn an/nach Martini Nebel sind, wird der Winter meist gelind.",
+        "Wenn um Martini Regen fällt, ist’s um den Weizen schlecht bestellt.",
+        "Ist Martini klar und rein, bricht der Winter bald herein.",
+        "Wolken am Martinitag, der Winter unbeständig werden mag.",
+        "Hat Martini einen weißen Bart, wird der Winter lang und hart.",
+        "Wenn die Martinsgänse auf dem Eise geh’n, muss das Christkind im Schmutze steh’n.",
+        "Wenn’s Laub nicht vor Martini fällt, kommt eine große Winterkält’.",
+        "Sankt Martin Sonnenschein, tritt ein kalter Winter ein.",
+        "Sankt Martin setzt sich schon mit Dank am warmen Ofen auf die Bank.",
+        "Sankt Martin kommt nach alten Sitten zumeist auf einem Schimmel geritten.",
+        "Schon nach der Allerheiligenmiss ist der Bauer des Winters gewiss; wenn er dann noch nicht kommen mag, dauert es nur bis Martinitag.",
+        "Michel mahnt, Martin zahlt. (Sankt Martin als Steuerheiliger)[3]"
+      ]
+    },
+    {
+      "day": 15,
+      "rules": [
+        "Der heilige Leopold ist oft noch dem Altweibersommer hold."
+      ]
+    },
+    {
+      "day": 17,
+      "rules": [
+        "Tummeln sich an Gertrud die Haselmäuse, ist es weit mit des Winters Eise."
+      ]
+    },
+    {
+      "day": 19,
+      "rules": [
+        "Sankt Elisabeth zeigt an, was der Winter für ein Mann.",
+        "Es kündigt die Elisabeth, was für ein Winter vor uns steht."
+      ]
+    },
+    {
+      "day": 21,
+      "rules": [
+        "Mariä Opferung hell und rein, bringt einen harten Winter rein.",
+        "Mariä Opferung klar und hell, naht ein strenger Winter schnell.",
+        "Mariä Opferung klar und hell, macht den Winter streng und ohne Fehl."
+      ]
+    },
+    {
+      "day": 22,
+      "rules": [
+        "Die heilige Cäcilie mit Dank setzt sich auf die Ofenbank.",
+        "Wenn es an Cäcilia schneit, ist der Winter nimmer weit.",
+        "Cäcilia im weißen Kleid, erinnert an die Winterzeit."
+      ]
+    },
+    {
+      "day": 23,
+      "rules": [
+        "Dem heiligen Klemens traue nicht, denn selten zeigt er ein mild’ Gesicht.",
+        "Sankt Klemens uns den Winter bringt."
+      ]
+    },
+    {
+      "day": 25,
+      "rules": [
+        "Wenn kein Schneefall auf Kathrein is’, auf Sankt Andreas (30. November) kommt er g’wiss.",
+        "Ist an Kathrein das Wetter matt, kommt im Frühjahr spät das Blatt.",
+        "Wie das Wetter um Kathrein, wird’s den ganzen Winter sein.",
+        "Kathrein stellt den Tanz ein.",
+        "Wer eine Gans zum Essen mag, beginn’ sie zu mästen am Katarinentag.",
+        "Kathrein wirft den Stein in den Rhein, die kalte Sophie holt ihn wieder raus"
+      ]
+    },
+    {
+      "day": 26,
+      "rules": [
+        "An Konrad steht kein Mühlenrad, weil der ja immer Wasser hat.",
+        "Der Konrad und die Kathrein (25. November), die knien sich in den Dreck hinein."
+      ]
+    },
+    {
+      "day": 27,
+      "rules": [
+        "Friert es auf Virgilius, im Märzen Kälte kommen muss."
+      ]
+    },
+    {
+      "day": 30,
+      "rules": [
+        "Andreas, hell und klar, verspricht ein gutes Jahr.",
+        "Wirft herab Andreas Schnee, tut’s den Korn und Weizen weh.",
+        "Andreasschnee tut Korn und Weizen weh.",
+        "Wenn kein Schneefall auf Kathrein (25. November) ist, auf Sankt Andreas kommt er g’wiss.",
+        "Hält Sankt Andrä den Schnee zurück, so schenkt er reiches Saatenglück.",
+        "Es verrät dir die Andreasnacht, was das Wetter wohl so macht."
+      ]
+    }
+  ]
+}

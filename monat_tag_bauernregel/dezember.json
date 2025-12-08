@@ -1,0 +1,161 @@
+{
+  "month": "dezember",
+  "days": [
+    {
+      "day": 1,
+      "rules": [
+        "Fällt auf Eligius ein starker Wintertag, die Kälte wohl vier Monate dauern mag."
+      ]
+    },
+    {
+      "day": 2,
+      "rules": [
+        "Gibt’s Regen am Bibianatag, es noch vierzig Tage regnen mag.",
+        "Wenn’s regnet am Bibianatag, regnet’s 40 Tag und eine Woche danach."
+      ]
+    },
+    {
+      "day": 4,
+      "rules": [
+        "Geht Barbara im Klee, kommt das Christkind im Schnee.",
+        "Knospen an Sankt Barbara, sind zum Christfest Blüten da."
+      ]
+    },
+    {
+      "day": 5,
+      "rules": [
+        "Nach Barbara (4. Dezember) geht’s Frosten an, kommt’s früher, ist nicht wohlgetan."
+      ]
+    },
+    {
+      "day": 6,
+      "rules": [
+        "Regnet’s an Sankt Nikolaus, wird der Winter streng und graus.",
+        "Trockener Nikolaus, milder Winter rund um’s Haus."
+      ]
+    },
+    {
+      "day": 7,
+      "rules": [
+        "Ist Ambrosius schön und rein, wird Sankt Florian (4. Mai) ein Wilder sein.",
+        "Ambrosius schneit oft dem Bauern auf den Fuß."
+      ]
+    },
+    {
+      "day": 8,
+      "rules": [
+        "Zu Mariä Empfängnis Regen bringt dem Heu keinen Segen."
+      ]
+    },
+    {
+      "day": 13,
+      "rules": [
+        "An Sankt Lucia ist der Abend dem Morgen nah.",
+        "Sankt Luzia stutzt den Tag und macht die längste Nacht."
+      ]
+    },
+    {
+      "day": 16,
+      "rules": [
+        "Die Adelheid liebt weiße Flocken, so bleibt die Erde selten trocken.",
+        "Um die Zeit von Adelheid, da macht sich gern der Winter breit.",
+        "Um Adelheid, da kommt der Schnee, der tut der Wintersaat nicht weh."
+      ]
+    },
+    {
+      "day": 17,
+      "rules": [
+        "Ist Sankt Lazar nackt und bar, gibt’s ein schönes neues Jahr.",
+        "Sankt Lazarus nackt und bar macht einen linden Februar."
+      ]
+    },
+    {
+      "day": 18,
+      "rules": [
+        "Um den Tag des Wunibald, da wird es meistens richtig kalt."
+      ]
+    },
+    {
+      "day": 21,
+      "rules": [
+        "Wenn Sankt Thomas dunkel war, gibt’s ein schönes neues Jahr.",
+        "Sankt Thomas bringt die längste Nacht, weil er den kürzesten Tag gebracht.",
+        "Am Thomastag wächst der Tag nur einen Hahneschritt."
+      ]
+    },
+    {
+      "day": 23,
+      "rules": [
+        "Vor Weihnacht viel Wasser, nach Johannis (24. Juli) kein Brot."
+      ]
+    },
+    {
+      "day": 24,
+      "rules": [
+        "Wie die Witterung an Adam und Eva (24.12.), so bleibt sie bis Ende des Monats.",
+        "Wenn es Weihnachten flockt auf allen Wegen, das bringt den Feldern Segen.",
+        "Ist es Grün zur Weihnachtszeit, fällt der Schnee auf Ostereier.",
+        "Hängt zu Weihnacht Eis von den Weiden, kannst du zu Ostern Palmen schneiden.",
+        "Ist es Weihnachten kalt, ist kurz der Winter, das Frühjahr kommt bald.",
+        "Wer sein Holz nach Weihnachten fällt, dessen Gebäude zehnfach hält.",
+        "Weihnachten im Schnee, Ostern im Klee.",
+        "Bis Weihnacht gibt es Speck und Brot, danach kommt Kält’ und Not.",
+        "Je dicker das Eis um Weihnacht liegt, je zeitiger der Bauer Frühling kriegt.",
+        "Bringt das Christkind Kält’ und Schnee, drängt das Winterkorn in die Höh’.",
+        "Wenn’s Christkindlein Tränen weint, vier Wochen keine Sonne scheint.",
+        "Weihnacht, die im grünen Kleid, hält für Ostern Schnee bereit.",
+        "Viel Wind in den Weihnachtstagen, reichlich Obst die Bäume tragen."
+      ]
+    },
+    {
+      "day": 25,
+      "rules": [
+        "Wie die Witterung an Adam und Eva (24.12.), so bleibt sie bis Ende des Monats.",
+        "Wenn es Weihnachten flockt auf allen Wegen, das bringt den Feldern Segen.",
+        "Ist es Grün zur Weihnachtszeit, fällt der Schnee auf Ostereier.",
+        "Hängt zu Weihnacht Eis von den Weiden, kannst du zu Ostern Palmen schneiden.",
+        "Ist es Weihnachten kalt, ist kurz der Winter, das Frühjahr kommt bald.",
+        "Wer sein Holz nach Weihnachten fällt, dessen Gebäude zehnfach hält.",
+        "Weihnachten im Schnee, Ostern im Klee.",
+        "Bis Weihnacht gibt es Speck und Brot, danach kommt Kält’ und Not.",
+        "Je dicker das Eis um Weihnacht liegt, je zeitiger der Bauer Frühling kriegt.",
+        "Bringt das Christkind Kält’ und Schnee, drängt das Winterkorn in die Höh’.",
+        "Wenn’s Christkindlein Tränen weint, vier Wochen keine Sonne scheint.",
+        "Weihnacht, die im grünen Kleid, hält für Ostern Schnee bereit.",
+        "Viel Wind in den Weihnachtstagen, reichlich Obst die Bäume tragen."
+      ]
+    },
+    {
+      "day": 26,
+      "rules": [
+        "Bringt Sankt Stephan Wind, die Winzer nicht erfreuet sind.",
+        "Scheint am Stephanstag die Sonne, so gerät der Flachs zur Wonne.",
+        "Windstill soll Sankt Stephan sein, soll der nächste Wein gedeihn."
+      ]
+    },
+    {
+      "day": 27,
+      "rules": [
+        "Hat der Evangelist Johannes Eis, dann macht es der Täufer (24. Juni) heiß."
+      ]
+    },
+    {
+      "day": 28,
+      "rules": [
+        "Schneit’s an unschuldige Kindl, fährt der Januar in die Schindel.",
+        "Haben’s die unschuldigen Kindlein kalt, so weicht der Frost nicht so bald.",
+        "Sitzen die unschuldigen Kindlein in der Kälte, vergeht der Frost nicht in Bälde."
+      ]
+    },
+    {
+      "day": 31,
+      "rules": [
+        "Silvesternacht düster oder klar sagt an ein gutes Jahr.",
+        "Wenn’s Silvester stürmt und schneit, ist Neujahr nicht mehr weit.",
+        "Ist’s an Silvester hell und klar, ist am nächsten Tag Neujahr.",
+        "Silvester wenig Wind und Morgensonn’ gibt viel Hoffnung auf Wein und Korn.",
+        "Silvesterwind und warme Sonn’ verdirbt die Hoffnung auf Wein und Korn."
+      ]
+    }
+  ]
+}
