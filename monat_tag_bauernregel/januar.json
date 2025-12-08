@@ -1,0 +1,177 @@
+{
+  "month": "januar",
+  "days": [
+    {
+      "day": 1,
+      "rules": [
+        "Wie St. Kathrein (25. November) wird’s Neujahr sein.",
+        "Anfang und Ende vom Januar zeigen das Wetter für ein ganzes Jahr.",
+        "Die Neujahrsnacht hell und klar deutet auf ein reiches Jahr.",
+        "Neujahrsnacht still und klar deutet auf ein gutes Jahr.",
+        "Morgenrot am ersten Tag/Neujahrstag Unwetter bringt und große Plag’.",
+        "Wenn’s um Neujahr Regen gibt, oft um Ostern Schnee noch stiebt.",
+        "Am Neujahrstage Sonnenschein lässt das Jahr uns fruchtbar sein."
+      ]
+    },
+    {
+      "day": 2,
+      "rules": [
+        "Makarius das Wetter prophezeit für die ganze Erntezeit.",
+        "Wie das Wetter an Makarius war, so wird der September - trüb oder klar.",
+        "Makarius, der weiß bestimmt, was das ganze Jahr so bringt.",
+        "Wie der Basilius, so der September."
+      ]
+    },
+    {
+      "day": 3,
+      "rules": [
+        "Bringt Genoveva uns Sturm und Wind, so ist uns Waltraud (9. April) oft gelind."
+      ]
+    },
+    {
+      "day": 6,
+      "rules": [
+        "Von Weihnachten bis zum Dreikönigstag aufs Wetter man wohl achten mag, denn wie das Wetter sich da verhält, so ist es die neuen Monate bestellt.",
+        "Wie sich das Wetter vom Christfest bis Dreikönig hält, ist es meist auch danach bestellt.",
+        "Ist bis Dreikönig kein Winter, so kommt keiner mehr dahinter.",
+        "Ist bis Dreikönig kein Winter geworden, verdient er bis Ostern auch keinen Orden.",
+        "Kam bis Dreikönig der Winter nicht, kommt er auch bis Ostern nicht.",
+        "Zeigt der Winter bis Dreikönig selten sein grimmiges Gesicht, zeigt er es auch bis Ostern nicht.",
+        "Ist Heiligdreikönig sonnig und still, der Winter vor Ostern nicht weichen will.",
+        "Ist Dreikönig hell und klar, gibt’s viel Wein im neuen Jahr."
+      ]
+    },
+    {
+      "day": 8,
+      "rules": [
+        "Sankt Erhard mit der Hack’ steckt die Wintertag/Feiertag in den Sack.",
+        "Der Erhard mit der Hack’, der steckt Weihnachten in den Sack.",
+        "Wenn es dem Severin gefällt, bringt er mit die große Kält’."
+      ]
+    },
+    {
+      "day": 9,
+      "rules": [
+        "Sankt Julian bricht das Eis; bricht er es nicht, umarmt er es.",
+        "Sankt Julian bricht das Eis, oder er bringt’s mit von seiner Reis’.",
+        "Scheint an Gregor die Sonne, herrscht bei Korn- und Weinbauern Wonne."
+      ]
+    },
+    {
+      "day": 10,
+      "rules": [
+        "An Sankt Pauli Sonnenschein bringt viel Korn und guten Wein",
+        "Ist der Paulustag gelinde, gibt’s im Frühjahr raue Winde.",
+        "Lässt Paulus keine Tropfen fallen, gibt’s zur Heuzeit wenig Ballen."
+      ]
+    },
+    {
+      "day": 15,
+      "rules": [
+        "Spielt auch die Muck’ um Habakuk, der Bauer nach dem Futter guck.",
+        "Die Schnake, die hat leichtes Spiel, bringt der Januar der Wärme viel. Jedoch sticht uns’re Mücke nicht, schwillt auch nicht Habakuks Gesicht."
+      ]
+    },
+    {
+      "day": 16,
+      "rules": [
+        "Der Theobald, der Theobald, der macht unsere Häuser kalt.",
+        "Die Kälte, die kommt angegangen, wenn bei Theobald die Tage langen.",
+        "Wie das Wetter an Marzellus war, wird’s im September trüb oder klar."
+      ]
+    },
+    {
+      "day": 17,
+      "rules": [
+        "Wenn zu Antoni die Luft ist klar, gibt’s ein trockenes Jahr.",
+        "Große Kälte am Antoniustag manchmal nicht lange halten mag.",
+        "Der Antonius mit dem weißen Bart, wenn’s da nicht regnet, er mit dem Schnee nicht spart.",
+        "Um Antonius nehmen die Tag zu um eine kleine Mönchesruh’.",
+        "Große Kält’ am Antonitag, große Hitz’ am Lorenzitag (10. August).",
+        "Am Schnee nicht spart Sankt Anton mit dem weißen Bart."
+      ]
+    },
+    {
+      "day": 20,
+      "rules": [
+        "An Fabian und Sebastian fängt Baum und Tag zu wachsen an.",
+        "An Fabian und Sebastian fängt der rechte Winter an.",
+        "Um Fabian und Sebastian, da fängt der Baum zu saften an.",
+        "An Fabian und Sebastian soll der Saft in die Bäume gahn.",
+        "Sturm und Frost an Fabian ist allen Saaten wohlgetan.",
+        "Fabian im Nebelhut, der tut den Bäumen/Pflanzen gar nicht gut.",
+        "Tanzen um Fabian schon die Mücken, muss man später den Kühen das Futter bezwicken.",
+        "Sebastian je kälter und heller – dann werden Scheuer und Fässer umso völler.",
+        "Sonnenschein um Fabian und Sebastian, der lässt den Tieren das Futter ausgah’n.",
+        "Um Fabian und Sebastian, da nimmt auch der Tauber die Taube an."
+      ]
+    },
+    {
+      "day": 21,
+      "rules": [
+        "Wenn Agnes und Vincentus (22. Januar) kommen, wird neuer Saft im Baum vernommen.",
+        "Die Agnessonne hat weder Kraft noch Wonne.",
+        "Sonnenschein am Agnestag, die Frucht wurmstichig werden mag.",
+        "Scheint zu Agnes die Sonne, wird später die Ernte zur Wonne.",
+        "Ziehen Wolken am Agnestag über den Grund, bleibt die Ernte stets gesund."
+      ]
+    },
+    {
+      "day": 22,
+      "rules": [
+        "Beim heiligen Vincentius gibt’s neuen Frost oder Winterschluss.",
+        "An St. Vinzent, da hat der Winter noch kein End’.",
+        "Kommt Sankt Vinzenz tief im Schnee, bringt das Jahr viel Heu und Klee.",
+        "Wenn Agnes und der Vinzenz kommen, wird neuer Saft im Baum vernommen. (21. Januar)",
+        "An dem Tag Vinzenzius jede Rebe treiben muss.",
+        "Wie’s Wetter am St. Vinzenz war, so kann’s auch sein das ganze Jahr; Schönes Wetter bringt Gewinn, drum merk’ den Tag in deinem Sinn.",
+        "An Vinzenzi voller Sonnenschein lässt uns hoffen auf Korn und Wein.",
+        "Vinzenzi Schein bringt viel Wein.",
+        "Scheint die Sonne an Vinzenzi blass, mit gutem Wein füllt sie das Fass.",
+        "Hat der Vinzenz Wasserflut, ist es für den Wein nicht gut; schüttet es gar in die Wann’ – o weh, wie wird er dann?",
+        "Geht der Vinzenz im Schnee, gibt es viel Heu und Klee."
+      ]
+    },
+    {
+      "day": 25,
+      "rules": [
+        "Am Tage Pauli Bekehr der halbe Winter hin, der halbe Winter her.",
+        "St. Paulus kalt mit Sonnenschein, da wird das Jahr wohl fruchtbar sein.",
+        "Je kälter unser Pauli und auch heller, desto voller werden Scheune und Keller.",
+        "Scheint die Sonne schön an Pauli Bekehrung, bringt es den Früchten gute Bescherung.",
+        "Ist an Pauli Bekehr das Wetter schön, werden wir ein warmes Frühjahr seh’n; ist es aber feucht und schlecht, kommt das Frühjahr spät als fauler Knecht.",
+        "Wenn die Sonne am Paulustage scheint, wird stets ein gutes Jahr gemeint. Wird es aber schneien oder regnen, kann uns ein mäßiges Jahr begegnen.",
+        "Wenn’s an Pauli regnet oder schneit, folget eine teure Zeit.",
+        "Pauli Bekehr – kein Winter mehr.",
+        "Pauli bekehr dich – halber Winter, scher dich.",
+        "Ist es an Paulus klar, kommt ein gutes Jahr.",
+        "Hat er Wind, regnet’s geschwind.",
+        "Wenn’s aber regnet oder auch schneit, wird teuer das Getreid’.",
+        "Ist der Nebel stark, füllt Krankheit den Sarg.",
+        "Doch Gott allein, der wendet alle Pein (Schmerz)."
+      ]
+    },
+    {
+      "day": 26,
+      "rules": [
+        "Timotheus bricht das Eis; hat es keins, so macht er eins."
+      ]
+    },
+    {
+      "day": 30,
+      "rules": [
+        "An Martina Sonnenschein verheißt viel Frucht und guten Wein.",
+        "Scheint an Martina die Sonne mild, ist sie der guten Ernte Bild.",
+        "Wenn der Jänner viel Regen bringt, werden die Gottesäcker gedüngt.",
+        "Bringt Martina Sonnenschein, hofft man auf viel Korn und Wein."
+      ]
+    },
+    {
+      "day": 31,
+      "rules": [
+        "Friert es stark um Vigilius, im März viel Kälte kommen muss.",
+        "Anfang und Ende vom Januar zeigen das Wetter für ein ganzes Jahr."
+      ]
+    }
+  ]
+}
