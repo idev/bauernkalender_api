@@ -1,0 +1,262 @@
+{
+  "januar": {
+    "month": "januar",
+    "days": [
+      { "day": 1, "title": "Neujahr, Hochfest der Mutter Maria", "urls": ["https://de.wikipedia.org/wiki/Neujahr","https://de.wikipedia.org/wiki/Maria_(Mutter_Jesu)"] },
+      { "day": 2, "title": "St. Makarios (Makarius), St. Basilius", "urls": ["https://de.wikipedia.org/wiki/Makarios_der_%C3%84gypter","https://de.wikipedia.org/wiki/Basilius_der_Gro%C3%9Fe"] },
+      { "day": 3, "title": "St. Genoveva", "urls": ["https://de.wikipedia.org/wiki/Genoveva_von_Paris"] },
+      { "day": 6, "title": "Heilige Drei Könige, Erscheinung des Herrn", "urls": ["https://de.wikipedia.org/wiki/Heilige_Drei_K%C3%B6nige","https://de.wikipedia.org/wiki/Erscheinung_des_Herrn"] },
+      { "day": 8, "title": "St. Erhard/Severin", "urls": ["https://de.wikipedia.org/wiki/Erhard_von_Regensburg","https://de.wikipedia.org/wiki/Severin_von_Noricum"] },
+      { "day": 9, "title": "St. Julian, St. Gregor", "urls": ["https://de.wikipedia.org/wiki/Julian_und_Basilissa","https://de.wikipedia.org/wiki/Gregor_X"] },
+      { "day": 10, "title": "Paulus Einsiedel", "urls": ["https://de.wikipedia.org/wiki/Paulus_von_Theben"] },
+      { "day": 15, "title": "St. Habakuk", "urls": ["https://de.wikipedia.org/wiki/Habakuk"] },
+      { "day": 16, "title": "St. Theobald, St. Marcellus", "urls": ["https://de.wikipedia.org/wiki/Marcellus_I"] },
+      { "day": 17, "title": "St. Antonius", "urls": ["https://de.wikipedia.org/wiki/Antonius_der_Gro%C3%9Fe"] },
+      { "day": 20, "title": "St. Fabian, St. Sebastian", "urls": ["https://de.wikipedia.org/wiki/Fabianus"] },
+      { "day": 21, "title": "St. Agnes", "urls": ["https://de.wikipedia.org/wiki/Agnes_von_Rom"] },
+      { "day": 22, "title": "St. Vinzenz", "urls": ["https://de.wikipedia.org/wiki/Vinzenz_von_Valencia"] },
+      { "day": 25, "title": "Pauli Bekehrung", "urls": ["https://de.wikipedia.org/wiki/Pauli_Bekehrung"] },
+      { "day": 26, "title": "St. Timotheus, Bischof von Ephesus", "urls": ["https://de.wikipedia.org/wiki/Timotheus_(Bischof)"] },
+      { "day": 30, "title": "St. Martina von Rom", "urls": ["https://de.wikipedia.org/wiki/Martina_(Heilige)"] },
+      { "day": 31, "title": "Vigilius von Trient (Überführung der Gebeine)", "urls": ["https://de.wikipedia.org/wiki/Vigilius_von_Trient"] }
+    ]
+  },
+  "februar": {
+    "month": "februar",
+    "days": [
+      { "day": 2, "title": "Mariä Lichtmess, Darstellung des Herrn", "urls": ["https://de.wikipedia.org/wiki/Mari%C3%A4_Lichtmess"] },
+      { "day": 3, "title": "St. Blasius von Sebaste", "urls": ["https://de.wikipedia.org/wiki/Blasius_von_Sebaste"] },
+      { "day": 5, "title": "St. Agatha von Catania", "urls": ["https://de.wikipedia.org/wiki/Agatha_von_Catania"] },
+      { "day": 6, "title": "St. Dorothea", "urls": ["https://de.wikipedia.org/wiki/Dorothea_(Heilige)"] },
+      { "day": 9, "title": "St. Apollonia", "urls": ["https://de.wikipedia.org/wiki/Apollonia_(Heilige)"] },
+      { "day": 12, "title": "St. Eulalia von Barcelona", "urls": ["https://de.wikipedia.org/wiki/Eulalia"] },
+      { "day": 14, "title": "St. Valentin von Terni (Valentinstag)", "urls": ["https://de.wikipedia.org/wiki/Valentin_von_Terni"] },
+      { "day": 16, "title": "St. Simeon, Bischof von Metz", "urls": ["https://de.wikipedia.org/wiki/Bischof_von_Metz"] },
+      { "day": 18, "title": "St. Simon, Gemeindeleiter", "urls": [] },
+      { "day": 21, "title": "St. Felix I., Bischof von Metz", "urls": ["https://de.wikipedia.org/wiki/Bischof_von_Metz#3._bis_5._Jahrhundert"] },
+      { "day": 22, "title": "Petri Stuhlfeier", "urls": ["https://de.wikipedia.org/wiki/Kathedra_Petri_(Fest)"] },
+      { "day": 24, "title": "St. Matthias, Apostel", "urls": ["https://de.wikipedia.org/wiki/Matthias_(Apostel)"] },
+      { "day": 25, "title": "St. Walburga, Äbtissin von Heidenheim", "urls": ["https://de.wikipedia.org/wiki/Walburga"] },
+      { "day": 26, "title": "St. Alexander von Alexandria", "urls": ["https://de.wikipedia.org/wiki/Alexander_von_Alexandria"] },
+      { "day": 27, "title": "St. Leander von Sevilla", "urls": ["https://de.wikipedia.org/wiki/Leander_von_Sevilla"] },
+      { "day": 28, "title": "St. Romanus von Condat", "urls": ["https://de.wikipedia.org/wiki/Romanus_von_Condat"] },
+      { "day": 29, "title": "St. Roman", "urls": ["https://de.wikipedia.org/wiki/Romanus_von_Condat"] }
+    ]
+  },
+  "maerz": {
+    "month": "maerz",
+    "days": [
+      { "day": 1, "title": "St. Albin, Bischof von Angers", "urls": ["https://de.wikipedia.org/wiki/Albin_von_Angers"] },
+      { "day": 3, "title": "St. Kunigunde", "urls": ["https://de.wikipedia.org/wiki/Kunigunde_von_Luxemburg"] },
+      { "day": 6, "title": "St. Fridolin", "urls": ["https://de.wikipedia.org/wiki/Fridolin_von_S%C3%A4ckingen"] },
+      { "day": 7, "title": "St. Perpetua und St. Felizitas", "urls": ["https://de.wikipedia.org/wiki/Perpetua_und_Felicitas"] },
+      { "day": 8, "title": "St. Cyprian", "urls": [] },
+      { "day": 10, "title": "40 Märtyrer / 40 Ritter", "urls": ["https://de.wikipedia.org/wiki/Vierzig_M%C3%A4rtyrer_von_Sebaste"] },
+      { "day": 11, "title": "Rosamunde", "urls": [] },
+      { "day": 12, "title": "St. Gregor", "urls": ["https://de.wikipedia.org/wiki/Gregor_der_Gro%C3%9Fe"] },
+      { "day": 15, "title": "St. Lukretia (Leocritia)", "urls": ["https://de.wikipedia.org/wiki/M%C3%A4rtyrer_von_C%C3%B3rdoba"] },
+      { "day": 17, "title": "St. Gertrud", "urls": ["https://de.wikipedia.org/wiki/Gertrud_von_Nivelles"] },
+      { "day": 19, "title": "St. Josef, St. Sibylle", "urls": ["https://de.wikipedia.org/wiki/Josef_von_Nazaret"] },
+      { "day": 20, "title": "Frühlingsanfang (20. oder 21. März)", "urls": ["https://de.wikipedia.org/wiki/Fr%C3%BChlingsbeginn"] },
+      { "day": 21, "title": "St. Benedikt / St. Lupicinius", "urls": ["https://de.wikipedia.org/wiki/Benedikt_von_Nursia"] },
+      { "day": 23, "title": "St. Otto", "urls": [] },
+      { "day": 24, "title": "Erzengel Gabriel", "urls": ["https://de.wikipedia.org/wiki/Gabriel_(Erzengel)"] },
+      { "day": 25, "title": "Mariä Verkündigung", "urls": ["https://de.wikipedia.org/wiki/Verk%C3%BCndigung_des_Herrn"] },
+      { "day": 26, "title": "St. Ludger", "urls": ["https://de.wikipedia.org/wiki/Liudger"] },
+      { "day": 27, "title": "St. Rupert", "urls": ["https://de.wikipedia.org/wiki/Rupert_von_Salzburg"] },
+      { "day": 29, "title": "St. Berthold", "urls": [] }
+    ]
+  },
+  "april": {
+    "month": "april",
+    "days": [
+      { "day": 1, "title": "1. April", "urls": ["https://de.wikipedia.org/wiki/1._April"] },
+      { "day": 2, "title": "St. Rosamunde", "urls": [] },
+      { "day": 3, "title": "St. Chrestus und St. Pappus", "urls": [] },
+      { "day": 4, "title": "St. Ambrosius", "urls": ["https://de.wikipedia.org/wiki/Ambrosius_von_Mailand"] },
+      { "day": 5, "title": "St. Vinzenz", "urls": ["https://de.wikipedia.org/wiki/Vinzenz_Ferrer"] },
+      { "day": 8, "title": "St. Amantius/Amandus", "urls": ["https://de.wikipedia.org/wiki/Amantius"] },
+      { "day": 9, "title": "St. Waltraud", "urls": ["https://de.wikipedia.org/wiki/Waltraud_von_Mons"] },
+      { "day": 10, "title": "St. Ezechiel/Hesekiel", "urls": ["https://de.wikipedia.org/wiki/Ezechiel"] },
+      { "day": 13, "title": "St. Martin", "urls": ["https://de.wikipedia.org/wiki/Martin_I._(Papst)"] },
+      { "day": 14, "title": "St. Tiburtius", "urls": ["https://de.wikipedia.org/wiki/Tiburtius_von_Rom"] },
+      { "day": 15, "title": "Kuckuckstag", "urls": [] },
+      { "day": 22, "title": "St. Georg (Vorbote)", "urls": [] },
+      { "day": 23, "title": "St. Georg", "urls": ["https://de.wikipedia.org/wiki/Georg_(Heiliger)"] },
+      { "day": 24, "title": "St. Fidelis", "urls": ["https://de.wikipedia.org/wiki/Fidelis_von_Sigmaringen"] },
+      { "day": 25, "title": "St. Markus", "urls": ["https://de.wikipedia.org/wiki/Markus_(Evangelist)"] },
+      { "day": 27, "title": "St. Petrus Canisius (Kanisius), Zita", "urls": ["https://de.wikipedia.org/wiki/Petrus_Canisius"] },
+      { "day": 28, "title": "St. Vital/Vitalis", "urls": ["https://de.wikipedia.org/wiki/Vitalis_(Ravenna)"] },
+      { "day": 30, "title": "Walpurgisnacht", "urls": ["https://de.wikipedia.org/wiki/Walpurgisnacht"] }
+    ]
+  },
+  "mai": {
+    "month": "mai",
+    "days": [
+      { "day": 1, "title": "Philippus und Jakobus, Walburga", "urls": ["https://de.wikipedia.org/wiki/Walburga"] },
+      { "day": 3, "title": "Kreuzauffindung, St. Jakobus, St. Philippus", "urls": ["https://de.wikipedia.org/wiki/Jakobus,_Sohn_des_Alph%C3%A4us"] },
+      { "day": 4, "title": "St. Florian", "urls": ["https://de.wikipedia.org/wiki/Florian_von_Lorch"] },
+      { "day": 7, "title": "St. Stanislaus", "urls": ["https://de.wikipedia.org/wiki/Stanislaus_von_Krakau"] },
+      { "day": 10, "title": "St. Gordian", "urls": ["https://de.wikipedia.org/wiki/Gordianus_und_Epimachus"] },
+      { "day": 11, "title": "St. Mamertus (Eisheiliger)", "urls": ["https://de.wikipedia.org/wiki/Mamertus"] },
+      { "day": 12, "title": "St. Pankratius (Eisheiliger)", "urls": ["https://de.wikipedia.org/wiki/Pankratius"] },
+      { "day": 13, "title": "St. Servatius (Eisheiliger)", "urls": ["https://de.wikipedia.org/wiki/Servatius_von_Tongern"] },
+      { "day": 14, "title": "St. Bonifaz (Eisheiliger)", "urls": ["https://de.wikipedia.org/wiki/Bonifatius_von_Tarsus"] },
+      { "day": 15, "title": "„Kalte Sophie“ (Eisheilige)", "urls": ["https://de.wikipedia.org/wiki/Sophia_von_Rom"] },
+      { "day": 16, "title": "St. Nepomuk", "urls": ["https://de.wikipedia.org/wiki/Johannes_Nepomuk"] },
+      { "day": 24, "title": "St. Esther", "urls": ["https://de.wikipedia.org/wiki/K%C3%B6nigin_Ester"] },
+      { "day": 25, "title": "St. Urban", "urls": ["https://de.wikipedia.org/wiki/Urban_I"] },
+      { "day": 31, "title": "St. Petronella / Maria Königin", "urls": ["https://de.wikipedia.org/wiki/Petronilla"] }
+    ]
+  },
+  "juni": {
+    "month": "juni",
+    "days": [
+      { "day": 1, "title": "St. Fortunatus, St. Justina", "urls": ["https://de.wikipedia.org/wiki/Fortunatus_von_Todi"] },
+      { "day": 8, "title": "St. Medardus", "urls": ["https://de.wikipedia.org/wiki/Medardus_von_Noyon"] },
+      { "day": 10, "title": "St. Margarete", "urls": ["https://de.wikipedia.org/wiki/Margareta_von_Schottland"] },
+      { "day": 11, "title": "St. Barnabas", "urls": ["https://de.wikipedia.org/wiki/Barnabas_(Apostel)"] },
+      { "day": 13, "title": "St. Antonius", "urls": ["https://de.wikipedia.org/wiki/Antonius_von_Padua"] },
+      { "day": 15, "title": "St. Veit/Vitus", "urls": ["https://de.wikipedia.org/wiki/Veit_(Heiliger)"] },
+      { "day": 16, "title": "St. Benno", "urls": ["https://de.wikipedia.org/wiki/Benno_von_Mei%C3%9Fen"] },
+      { "day": 19, "title": "St. Gervasius", "urls": ["https://de.wikipedia.org/wiki/Gervasius_und_Protasius"] },
+      { "day": 21, "title": "Sommeranfang, Sommersonnenwende", "urls": ["https://de.wikipedia.org/wiki/Sommer","https://de.wikipedia.org/wiki/Sonnenwende"] },
+      { "day": 24, "title": "Johannistag / Geburt Johannes des Täufers", "urls": ["https://de.wikipedia.org/wiki/Johannistag","https://de.wikipedia.org/wiki/Johannes_der_T%C3%A4ufer"] },
+      { "day": 27, "title": "Siebenschläfertag", "urls": ["https://de.wikipedia.org/wiki/Siebenschl%C3%A4fertag"] },
+      { "day": 29, "title": "Peter und Paul", "urls": ["https://de.wikipedia.org/wiki/Peter_und_Paul"] }
+    ]
+  },
+  "juli": {
+    "month": "juli",
+    "days": [
+      { "day": 1, "title": "Monatsanfang", "urls": [] },
+      { "day": 2, "title": "Mariä Heimsuchung", "urls": ["https://de.wikipedia.org/wiki/Mari%C3%A4_Heimsuchung"] },
+      { "day": 4, "title": "St. Ulrich", "urls": ["https://de.wikipedia.org/wiki/Ulrich_von_Augsburg"] },
+      { "day": 8, "title": "St. Kilian", "urls": ["https://de.wikipedia.org/wiki/Kilian_von_W%C3%BCrzburg"] },
+      { "day": 10, "title": "Siebenbrüder", "urls": ["https://de.wikipedia.org/wiki/Felicitas_und_ihre_S%C3%B6hne"] },
+      { "day": 15, "title": "Apostelteilung", "urls": ["https://de.wikipedia.org/wiki/Apostelfest"] },
+      { "day": 17, "title": "St. Alexius", "urls": ["https://de.wikipedia.org/wiki/Alexius_von_Edessa"] },
+      { "day": 19, "title": "St. Vinzenz", "urls": ["https://de.wikipedia.org/wiki/Vinzenz_von_Paul"] },
+      { "day": 20, "title": "St. Margarete, St. Apollinaris", "urls": ["https://de.wikipedia.org/wiki/Margareta_von_Antiochia"] },
+      { "day": 22, "title": "St. Maria Magdalena (Marlene)", "urls": ["https://de.wikipedia.org/wiki/Maria_Magdalena"] },
+      { "day": 23, "title": "St. Apollinaris", "urls": ["https://de.wikipedia.org/wiki/Apollinaris_von_Ravenna"] },
+      { "day": 25, "title": "St. Jakobus", "urls": ["https://de.wikipedia.org/wiki/Jakobus_der_%C3%84ltere"] },
+      { "day": 26, "title": "St. Anna", "urls": ["https://de.wikipedia.org/wiki/Anna_(Heilige)"] },
+      { "day": 29, "title": "St. Olav, St. Beate, St. Lucilla und St. Ladislaus, St. Flora", "urls": ["https://de.wikipedia.org/wiki/Olav_II._Haraldsson"] },
+      { "day": 31, "title": "St. Ignatius", "urls": ["https://de.wikipedia.org/wiki/Ignatius_von_Loyola"] }
+    ]
+  },
+  "august": {
+    "month": "august",
+    "days": [
+      { "day": 1, "title": "Petri Kettenfeier", "urls": ["https://de.wikipedia.org/wiki/St._Peter_ad_Vincula"] },
+      { "day": 5, "title": "St. Oswald (Maria Schnee)", "urls": ["https://de.wikipedia.org/wiki/Oswald_(Northumbria)"] },
+      { "day": 7, "title": "St. Afra, (Maria Schnee)", "urls": ["https://de.wikipedia.org/wiki/Afra_von_Augsburg"] },
+      { "day": 8, "title": "St. Dominikus", "urls": ["https://de.wikipedia.org/wiki/Dominikus"] },
+      { "day": 10, "title": "St. Laurentius", "urls": ["https://de.wikipedia.org/wiki/Laurentius_von_Rom"] },
+      { "day": 13, "title": "St. Hippolyt / St. Kassian (Cassianus)", "urls": ["https://de.wikipedia.org/wiki/Hippolyt_von_Rom"] },
+      { "day": 15, "title": "Maria Himmelfahrt", "urls": ["https://de.wikipedia.org/wiki/Mari%C3%A4_Aufnahme_in_den_Himmel"] },
+      { "day": 16, "title": "St. Rochus", "urls": ["https://de.wikipedia.org/wiki/Rochus_von_Montpellier"] },
+      { "day": 18, "title": "St. Agapitus", "urls": ["https://de.wikipedia.org/wiki/Agapitus_von_Praeneste"] },
+      { "day": 19, "title": "St. Sebaldus", "urls": ["https://de.wikipedia.org/wiki/Sebaldus_von_N%C3%BCrnberg"] },
+      { "day": 20, "title": "St. Bernhard", "urls": ["https://de.wikipedia.org/wiki/Bernhard_von_Clairvaux"] },
+      { "day": 24, "title": "St. Bartholomäus (Bartheltag)", "urls": ["https://de.wikipedia.org/wiki/Bartholom%C3%A4us_(Apostel)"] },
+      { "day": 25, "title": "St. Ludwig", "urls": ["https://de.wikipedia.org/wiki/Ludwig_IX._(Frankreich)#Ludwig_der_Heilige_als_Christ"] },
+      { "day": 28, "title": "St. Augustin", "urls": ["https://de.wikipedia.org/wiki/Augustinus_von_Hippo"] },
+      { "day": 30, "title": "St. Felix", "urls": ["https://de.wikipedia.org/wiki/Felix_und_Adauctus"] },
+      { "day": 31, "title": "St. Raimund", "urls": ["https://de.wikipedia.org/wiki/Raimund_Nonnatus"] }
+    ]
+  },
+  "september": {
+    "month": "september",
+    "days": [
+      { "day": 1, "title": "St. Ägidius", "urls": ["https://de.wikipedia.org/wiki/%C3%84gidius_(Heiliger)"] },
+      { "day": 4, "title": "St. Rosalia", "urls": ["https://de.wikipedia.org/wiki/Rosalia_(Heilige)"] },
+      { "day": 6, "title": "St. Magnus", "urls": ["https://de.wikipedia.org/wiki/Magnus_von_F%C3%BCssen"] },
+      { "day": 7, "title": "St. Regine", "urls": ["https://de.wikipedia.org/wiki/Regina_(Heilige)"] },
+      { "day": 8, "title": "Mariä Geburt", "urls": ["https://de.wikipedia.org/wiki/Mari%C3%A4_Geburt"] },
+      { "day": 9, "title": "St. Gorgon", "urls": [] },
+      { "day": 11, "title": "St. Protus", "urls": ["https://de.wikipedia.org/wiki/Protus_und_Hyacinthus"] },
+      { "day": 12, "title": "Mariä Namen", "urls": ["https://de.wikipedia.org/wiki/Mari%C3%A4_Namen"] },
+      { "day": 14, "title": "Kreuzerhöhungstag", "urls": ["https://de.wikipedia.org/wiki/Kreuzerh%C3%B6hung"] },
+      { "day": 15, "title": "St. Ludmilla", "urls": ["https://de.wikipedia.org/wiki/Ludmilla_von_B%C3%B6hmen"] },
+      { "day": 16, "title": "St. Cyrianus", "urls": ["https://de.wikipedia.org/wiki/Cyprian_von_Karthago"] },
+      { "day": 17, "title": "St. Lambert von Lüttich", "urls": ["https://de.wikipedia.org/wiki/Lambert_von_L%C3%BCttich"] },
+      { "day": 18, "title": "St. Lampert von Freising", "urls": ["https://de.wikipedia.org/wiki/Lantpert_von_Freising"] },
+      { "day": 21, "title": "St. Matthäus", "urls": ["https://de.wikipedia.org/wiki/Matth%C3%A4us_(Evangelist)"] },
+      { "day": 22, "title": "St. Mauritius", "urls": ["https://de.wikipedia.org/wiki/Mauritius_(Heiliger)"] },
+      { "day": 24, "title": "St. Virgilius", "urls": ["https://de.wikipedia.org/wiki/Virgilius_von_Salzburg"] },
+      { "day": 25, "title": "St. Kleophas", "urls": ["https://de.wikipedia.org/wiki/Kleopas"] },
+      { "day": 26, "title": "St. Damian und St. Kosmas", "urls": ["https://de.wikipedia.org/wiki/Cosmas_und_Damian_(Heilige)"] },
+      { "day": 27, "title": "St. Hiltrud / Helmtrud", "urls": ["https://de.wikipedia.org/wiki/Wenzel_von_B%C3%B6hmen"] },
+      { "day": 28, "title": "St. Wenzeslaus (Wenzel, Vaclav)", "urls": [] },
+      { "day": 29, "title": "Die Erzengel Michael, Gabriel und Raphael", "urls": ["https://de.wikipedia.org/wiki/Michael_(Erzengel)"] },
+      { "day": 30, "title": "St. Hieronymus", "urls": ["https://de.wikipedia.org/wiki/Hieronymus_(Kirchenvater)"] }
+    ]
+  },
+  "oktober": {
+    "month": "oktober",
+    "days": [
+      { "day": 1, "title": "St. Remigius", "urls": ["https://de.wikipedia.org/wiki/Remigius_von_Reims"] },
+      { "day": 2, "title": "St. Leodegar", "urls": ["https://de.wikipedia.org/wiki/Leodegar_von_Autun"] },
+      { "day": 4, "title": "St. Franziskus", "urls": ["https://de.wikipedia.org/wiki/Franz_von_Assisi"] },
+      { "day": 6, "title": "St. Bruno", "urls": ["https://de.wikipedia.org/wiki/Bruno_von_K%C3%B6ln"] },
+      { "day": 8, "title": "St. Pelagia von Antiochia, Märtyrerin", "urls": ["https://de.wikipedia.org/wiki/Pelagia"] },
+      { "day": 9, "title": "St. Dionysius (Denis)", "urls": ["https://de.wikipedia.org/wiki/Dionysius_von_Paris"] },
+      { "day": 13, "title": "St. Koloman", "urls": ["https://de.wikipedia.org/wiki/Koloman_(Heiliger)"] },
+      { "day": 14, "title": "St. Burkhard (Burkard) (Erhebung der Gebeine)", "urls": ["https://de.wikipedia.org/wiki/Burkard"] },
+      { "day": 15, "title": "St. Theresa", "urls": ["https://de.wikipedia.org/wiki/Theresa_von_%C3%81vila"] },
+      { "day": 16, "title": "St. Hedwig und St. Gallus", "urls": ["https://de.wikipedia.org/wiki/Hedwig_von_Andechs"] },
+      { "day": 18, "title": "St. Lukas", "urls": ["https://de.wikipedia.org/wiki/Lukas_(Evangelist)"] },
+      { "day": 20, "title": "St. Wendelin", "urls": ["https://de.wikipedia.org/wiki/Wendelin"] },
+      { "day": 21, "title": "St. Ursula", "urls": ["https://de.wikipedia.org/wiki/Ursula_von_K%C3%B6ln"] },
+      { "day": 23, "title": "St. Severin", "urls": ["https://de.wikipedia.org/wiki/Severin_von_K%C3%B6ln"] },
+      { "day": 25, "title": "St. Crispinus und Crispinianus, Krispin", "urls": ["https://de.wikipedia.org/wiki/Crispinus_und_Crispinianus"] },
+      { "day": 26, "title": "St. Albin", "urls": ["https://de.wikipedia.org/wiki/Albin"] },
+      { "day": 28, "title": "Apostel Simon und Apostel Judas", "urls": ["https://de.wikipedia.org/wiki/Simon_Zelotes"] },
+      { "day": 31, "title": "St. Wolfgang", "urls": ["https://de.wikipedia.org/wiki/Wolfgang_von_Regensburg"] }
+    ]
+  },
+  "november": {
+    "month": "november",
+    "days": [
+      { "day": 1, "title": "Allerheiligen", "urls": ["https://de.wikipedia.org/wiki/Allerheiligen"] },
+      { "day": 2, "title": "Allerseelen", "urls": ["https://de.wikipedia.org/wiki/Allerseelen"] },
+      { "day": 3, "title": "St. Hubertus", "urls": ["https://de.wikipedia.org/wiki/Hubertus_von_L%C3%BCttich"] },
+      { "day": 4, "title": "St. Karl", "urls": ["https://de.wikipedia.org/wiki/Karl_Borrom%C3%A4us"] },
+      { "day": 6, "title": "St. Leonhard", "urls": ["https://de.wikipedia.org/wiki/Leonhard_von_Limoges"] },
+      { "day": 11, "title": "St. Martin", "urls": ["https://de.wikipedia.org/wiki/Martin_von_Tours"] },
+      { "day": 15, "title": "St. Leopold", "urls": ["https://de.wikipedia.org/wiki/Leopold_III._(%C3%96sterreich)"] },
+      { "day": 17, "title": "St. Gertrud", "urls": ["https://de.wikipedia.org/wiki/Gertrud_von_Helfta"] },
+      { "day": 19, "title": "St. Elisabeth", "urls": ["https://de.wikipedia.org/wiki/Elisabeth_von_Th%C3%BCringen"] },
+      { "day": 21, "title": "Mariä Tempelgang (Mariä Opferung)", "urls": ["https://de.wikipedia.org/wiki/Gedenktag_Unserer_Lieben_Frau_in_Jerusalem"] },
+      { "day": 22, "title": "St. Cäcilia", "urls": ["https://de.wikipedia.org/wiki/C%C3%A4cilia_von_Rom"] },
+      { "day": 23, "title": "St. Clemens / Klemens", "urls": ["https://de.wikipedia.org/wiki/Clemens_von_Rom"] },
+      { "day": 25, "title": "St. Katharina", "urls": ["https://de.wikipedia.org/wiki/Katharina_von_Alexandria"] },
+      { "day": 26, "title": "St. Konrad", "urls": ["https://de.wikipedia.org/wiki/Konrad_von_Konstanz"] },
+      { "day": 27, "title": "St. Virgilius (Fergal)", "urls": ["https://de.wikipedia.org/wiki/Virgilius_von_Salzburg"] },
+      { "day": 30, "title": "St. Andreas", "urls": ["https://de.wikipedia.org/wiki/Andreas_(Apostel)"] }
+    ]
+  },
+  "dezember": {
+    "month": "dezember",
+    "days": [
+      { "day": 1, "title": "St. Eligius", "urls": ["https://de.wikipedia.org/wiki/Eligius"] },
+      { "day": 2, "title": "St. Bibiana", "urls": ["https://de.wikipedia.org/wiki/Bibiana_(Heilige)"] },
+      { "day": 4, "title": "St. Barbara", "urls": ["https://de.wikipedia.org/wiki/Barbara_von_Nikomedien"] },
+      { "day": 6, "title": "St. Nikolaus", "urls": ["https://de.wikipedia.org/wiki/Nikolaus_von_Myra"] },
+      { "day": 7, "title": "St. Ambrosius", "urls": ["https://de.wikipedia.org/wiki/Ambrosius_von_Mailand"] },
+      { "day": 8, "title": "Mariä Empfängnis", "urls": ["https://de.wikipedia.org/wiki/Unbefleckte_Empf%C3%A4ngnis"] },
+      { "day": 13, "title": "St. Lucia", "urls": ["https://de.wikipedia.org/wiki/Lucia_von_Syrakus"] },
+      { "day": 16, "title": "St. Adelheid", "urls": ["https://de.wikipedia.org/wiki/Adelheid_von_Burgund_(931%E2%80%93999)"] },
+      { "day": 17, "title": "St. Lazarus", "urls": ["https://de.wikipedia.org/wiki/Lazarus"] },
+      { "day": 18, "title": "St. Wunibald", "urls": ["https://de.wikipedia.org/wiki/Wunibald"] },
+      { "day": 21, "title": "St. Thomas", "urls": ["https://de.wikipedia.org/wiki/Thomas_(Apostel)"] },
+      { "day": 24, "title": "Heiliger Abend, Weihnachten", "urls": ["https://de.wikipedia.org/wiki/Weihnachten"] },
+      { "day": 26, "title": "St. Stefan", "urls": ["https://de.wikipedia.org/wiki/Stephanus"] },
+      { "day": 27, "title": "St. Johannes", "urls": ["https://de.wikipedia.org/wiki/Johannes_(Apostel)"] },
+      { "day": 28, "title": "Unschuldige Kinder", "urls": ["https://de.wikipedia.org/wiki/Kindermord_in_Betlehem#Fest_der_Unschuldigen_Kinder"] },
+      { "day": 31, "title": "St. Silvester", "urls": ["https://de.wikipedia.org/wiki/Silvester_I"] }
+    ]
+  }
+}
