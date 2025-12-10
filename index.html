@@ -16,11 +16,21 @@
   <script>
     const monthKeys = ['januar','februar','maerz','april','mai','juni','juli','august','september','oktober','november','dezember'];
 
-    async function getTodayRule() {
-      const now = new Date();
-      const month = monthKeys[now.getMonth()];
-      const day = now.getDate();
+    async function loadDescription(month, day) {
+      try {
+        const resp = await fetch('./tag_beschreibung_bauernregeln.json');
+        const data = await resp.json();
+        const monthObj = data[month];
+        if (monthObj && Array.isArray(monthObj.days)) {
+          return monthObj.days.find(d => d.day === day) || null;
+        }
+      } catch (err) {
+        console.error('Fehler beim Laden der Beschreibungsdatei', err);
+      }
+      return null;
+    }
 
+    async function loadRuleFallback(month, day) {
       try {
         const dayResp = await fetch(`./monat_tag_bauernregeln/${month}.json`);
         const dayData = await dayResp.json();
@@ -46,9 +56,33 @@
       return 'Keine Regel gefunden.';
     }
 
+    function escapeHtml(str) {
+      if (!str) return '';
+      return String(str).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+    }
+
     (async () => {
       const out = document.getElementById('out');
-      out.textContent = await getTodayRule();
+      const now = new Date();
+      const month = monthKeys[now.getMonth()];
+      const day = now.getDate();
+
+      // Try to load description (title + urls)
+      const desc = await loadDescription(month, day);
+      let html = '';
+      if (desc) {
+        html += `<div id="desc"><strong>${escapeHtml(desc.title || 'Eintrag')}</strong>`;
+        if (Array.isArray(desc.urls) && desc.urls.length) {
+          html += '<ul>' + desc.urls.map(u => `<li><a href="${escapeHtml(u)}" target="_blank" rel="noopener">${escapeHtml(u)}</a></li>`).join('') + '</ul>';
+        }
+        html += '</div>';
+      }
+
+      // Load the existing rule (day-specific or monthly fallback)
+      const ruleText = await loadRuleFallback(month, day);
+      html += `<div id="rule"><p>${escapeHtml(ruleText)}</p></div>`;
+
+      out.innerHTML = html || 'Keine Regel gefunden.';
     })();
   </script>
 </body>
