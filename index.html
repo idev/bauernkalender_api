@@ -32,7 +32,7 @@
 
     async function loadRuleFallback(month, day) {
       try {
-        const dayResp = await fetch(`./monat_tag_bauernregeln/${month}.json`);
+        const dayResp = await fetch(`./monat_tag_bauernregel/${month}.json`);
         const dayData = await dayResp.json();
         const entry = dayData.days.find(d => d.day === day);
         if (entry?.rules?.length) {
